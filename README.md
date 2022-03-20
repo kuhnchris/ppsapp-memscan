@@ -15,3 +15,9 @@ The camera only has limited memory available, so it's possible your telnet sessi
 ## Using:
 - crosstool-ng to build the uclibcgnueabi-gcc (as this camera uses uclibc, gnu eabi 5 was apparently fine, albeit eabi 4 worked too)
 
+## Special Thanks:
+
+guinos work (with Ghidra) on:
+RTSP patches for similar camaras @ https://github.com/guino/ppsapp-rtsp
+Analysis and "root" instruction of the camera type I own over @ https://github.com/guino/Merkury1080P
+Base information @ https://github.com/guino/Merkury720
