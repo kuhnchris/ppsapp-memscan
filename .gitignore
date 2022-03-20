@@ -1,0 +1,7 @@
+main
+*.o
+.vscode
+output.htm
+output.html
+*.jpeg
+*.jpg
